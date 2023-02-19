@@ -8,125 +8,165 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SODICTask
 build_property.RootNamespace = SODICTask
-build_property.ProjectDir = c:\Users\shnou\Desktop\SODICTask\SODICTask\
+build_property.ProjectDir = C:\Users\shnou\Desktop\SODICTask\SODICTask\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\shnou\Desktop\SODICTask\SODICTask
+build_property.MSBuildProjectDirectory = C:\Users\shnou\Desktop\SODICTask\SODICTask
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Create.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmlidXRlVmFsdWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Delete.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmlidXRlVmFsdWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Details.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmlidXRlVmFsdWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Edit.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmlidXRlVmFsdWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Index.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/AttributeValues/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0cmlidXRlVmFsdWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Create.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Delete.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Details.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Edit.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Index.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Home/Index.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/DynamicAttributes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY0F0dHJpYnV0ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/DynamicAttributes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY0F0dHJpYnV0ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/DynamicAttributes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY0F0dHJpYnV0ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/DynamicAttributes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY0F0dHJpYnV0ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/DynamicAttributes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHluYW1pY0F0dHJpYnV0ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/FileProds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVByb2RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/FileProds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVByb2RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/FileProds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVByb2RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/FileProds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVByb2RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/FileProds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZVByb2RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Home/Privacy.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Create.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Delete.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Details.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Edit.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Index.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/Error.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Create.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Delete.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Details.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Edit.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Index.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/SubCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/_ViewImports.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/_ViewStart.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/_Layout.cshtml]
+[C:/Users/shnou/Desktop/SODICTask/SODICTask/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uy8qr253ji
